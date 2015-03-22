@@ -8,7 +8,7 @@ public class MapController : MonoBehaviour {
 	// Use this for initialization
 	void Start () 
 	{
-		Map = new Map1 ();
+		Map = new Map1 (); 
 	}
 	
 	// Update is called once per frame
